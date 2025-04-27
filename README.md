@@ -46,7 +46,8 @@ An intelligent, collaborative **Event Management System** where HODs, Organisers
 | **5. Event Status Checking (Approved/Rejected)** |![Screenshot from 2025-04-26 16-06-14](https://github.com/user-attachments/assets/793919bc-5b44-4ba2-bad5-42203277e3ba) |
 | **6. Best-Fit Algorithm (Seminar Hall Allocation)** | ![Screenshot from 2025-04-26 15-48-00](https://github.com/user-attachments/assets/e70b310f-b6a3-4933-b5f5-40c4cf96dd47) |
 | **7. Student Verification by QR Code** | ![Screenshot from 2025-04-26 15-46-47](https://github.com/user-attachments/assets/c991e47f-a80c-4e74-bc52-d25e9772af4d) |
-
+| **8. This is a uem Event Scanner app developed by me** | ![dd45377d-fb41-43e4-aeef-af5a87b51b59](https://github.com/user-attachments/assets/4e6554dc-7dbd-44ef-9408-5bb64864667f) |
+| **8. Verifyig user one time entry and Approval ** | ![f2818bc9-c8d9-44c8-8758-d049ad936f65](https://github.com/user-attachments/assets/1b3d08fc-41c4-40d5-a3f7-d4156a68602d) |
 
 
 ## 🚀 Live Preview
