@@ -26,6 +26,7 @@ An intelligent, collaborative **Event Management System** where HODs, Organisers
 - 📋 View approval status and student enrollment status
 - 🔄 Real-time updates across event statuses
 - 📣 Notification system for approvals and rejections
+- Visualize conflicts By HOD Role
 
 ---
 
@@ -48,6 +49,9 @@ An intelligent, collaborative **Event Management System** where HODs, Organisers
 | **7. Student Verification by QR Code** | ![Screenshot from 2025-04-26 15-46-47](https://github.com/user-attachments/assets/c991e47f-a80c-4e74-bc52-d25e9772af4d) |
 | **8. This is a uem Event Scanner app developed by me** | ![dd45377d-fb41-43e4-aeef-af5a87b51b59](https://github.com/user-attachments/assets/4e6554dc-7dbd-44ef-9408-5bb64864667f) |
 | **8. Verifyig user one time entry and Approval ** | ![f2818bc9-c8d9-44c8-8758-d049ad936f65](https://github.com/user-attachments/assets/1b3d08fc-41c4-40d5-a3f7-d4156a68602d) |
+| **8. Visualize conflicts By HOD Role ** | ![Screenshot from 2025-04-29 01-19-28](https://github.com/user-attachments/assets/b14a9ac8-d36d-4a9d-92fb-172bf5605922) |
+
+
 
 
 ## 🚀 Live Preview
