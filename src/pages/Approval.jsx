@@ -22,7 +22,7 @@ export default function MyEvent() {
             });
 
     }, [events]);
-    // Dummy JSON data
+    
 
 
     // Give Approval
